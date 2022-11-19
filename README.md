@@ -9,4 +9,6 @@ Hello guys follow my new style .bashrc for terminal style, a im use:<br>
 2- Botsay :https://github.com/xyproto/botsay <br>
 
 Result : <br>
-![image](https://i.imgur.com/MKbih5v.jpg)
+![image](https://i.imgur.com/MKbih5v.jpg)<br>
+~take care, peace.
+
